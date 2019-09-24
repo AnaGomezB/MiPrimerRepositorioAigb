@@ -1,0 +1,3 @@
+Hoy es martes 24 de Septiembre de 2019
+Estamos en la Universidad del Rosario
+Clase de Desarrollo Web con REST
